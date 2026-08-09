@@ -1,0 +1,71 @@
+samper.png
+size:512,256
+filter:Linear,Linear
+pma:true
+scale:0.2
+biyan
+bounds:282,41,39,10
+erduo1
+bounds:270,165,42,37
+erduo2
+bounds:344,33,30,45
+erduo3
+bounds:320,51,28,45
+lian
+bounds:431,127,75,57
+rotate:90
+qugan1
+bounds:353,81,52,54
+weiyi
+bounds:289,98,71,104
+xiongqiang
+bounds:362,128,74,67
+rotate:270
+ya1
+bounds:83,192,10,10
+ya2
+bounds:69,191,12,11
+ya3
+bounds:118,194,5,8
+ya4
+bounds:30,193,6,9
+you bi 1
+bounds:452,76,54,50
+you chibang
+bounds:95,16,105,186
+rotate:180
+you jiao
+bounds:258,174,18,28
+youbi 2
+bounds:251,73,24,70
+rotate:90
+youbi3
+bounds:410,34,17,25
+rotate:90
+youtui1
+bounds:2,186,26,16
+youtui2
+bounds:81,160,36,42
+zhenyan
+bounds:446,78,39,10
+zhuangzi2
+bounds:188,40,20,26
+zhuazi1
+bounds:273,53,18,30
+rotate:90
+zui
+bounds:2,41,26,20
+zuo bi 3
+bounds:370,45,57,38
+zuo chibang1
+bounds:201,21,87,181
+zuobi1
+bounds:426,50,41,82
+zuochibang2
+bounds:2,2,97,200
+zuojiao
+bounds:246,33,25,38
+zuoshou1
+bounds:470,49,33,24
+zuotui
+bounds:161,150,27,52

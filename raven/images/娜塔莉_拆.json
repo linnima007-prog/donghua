@@ -1,0 +1,19 @@
+{
+"skeleton": { "images": "images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "eye_r", "bone": "root", "attachment": "eye_r" }
+],
+"skins": {
+	"default": {
+		"eye_r": {
+			"eye_r": {"x": 73,"y": 779,"width": 64,"height": 64 }
+		}
+	}
+},
+"animations":{
+	"animation": {}
+}
+}
