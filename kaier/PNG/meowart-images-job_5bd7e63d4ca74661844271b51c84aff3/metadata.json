@@ -1,0 +1,23 @@
+{
+  "jobId": "job_5bd7e63d4ca74661844271b51c84aff3",
+  "images": [
+    {
+      "index": "01",
+      "fileName": "01_第_1_帧.png",
+      "name": "第 1 帧",
+      "jobId": "job_5bd7e63d4ca74661844271b51c84aff3"
+    },
+    {
+      "index": "02",
+      "fileName": "02_第_2_帧.png",
+      "name": "第 2 帧",
+      "jobId": "job_5bd7e63d4ca74661844271b51c84aff3"
+    },
+    {
+      "index": "03",
+      "fileName": "03_第_3_帧.png",
+      "name": "第 3 帧",
+      "jobId": "job_5bd7e63d4ca74661844271b51c84aff3"
+    }
+  ]
+}

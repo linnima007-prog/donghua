@@ -1,0 +1,47 @@
+{
+  "jobId": "job_f0126afd5e494552bdf545e303cffd77",
+  "images": [
+    {
+      "index": "01",
+      "fileName": "01_第_1_帧.png",
+      "name": "第 1 帧",
+      "jobId": "job_f0126afd5e494552bdf545e303cffd77"
+    },
+    {
+      "index": "02",
+      "fileName": "02_第_2_帧.png",
+      "name": "第 2 帧",
+      "jobId": "job_f0126afd5e494552bdf545e303cffd77"
+    },
+    {
+      "index": "03",
+      "fileName": "03_第_3_帧.png",
+      "name": "第 3 帧",
+      "jobId": "job_f0126afd5e494552bdf545e303cffd77"
+    },
+    {
+      "index": "04",
+      "fileName": "04_第_4_帧.png",
+      "name": "第 4 帧",
+      "jobId": "job_f0126afd5e494552bdf545e303cffd77"
+    },
+    {
+      "index": "05",
+      "fileName": "05_第_5_帧.png",
+      "name": "第 5 帧",
+      "jobId": "job_f0126afd5e494552bdf545e303cffd77"
+    },
+    {
+      "index": "06",
+      "fileName": "06_第_6_帧.png",
+      "name": "第 6 帧",
+      "jobId": "job_f0126afd5e494552bdf545e303cffd77"
+    },
+    {
+      "index": "07",
+      "fileName": "07_第_7_帧.png",
+      "name": "第 7 帧",
+      "jobId": "job_f0126afd5e494552bdf545e303cffd77"
+    }
+  ]
+}
